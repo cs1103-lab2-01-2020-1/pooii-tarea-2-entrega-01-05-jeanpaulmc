@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.cpp
+ejercicios.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.h
+funciones.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/funciones.h
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.h
+tipos.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/funciones.h
+tipos.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
+iostream
+-
+algorithm
+-
+vector
+-
+list
+-
+
