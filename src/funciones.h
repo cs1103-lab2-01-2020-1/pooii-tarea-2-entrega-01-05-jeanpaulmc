@@ -8,5 +8,6 @@
 #include "tipos.h"
 
 void print_arr(int *arr, int n);
+void print_list(list<int> l);
 
 #endif //POOII_TAREA_2_ENTREGA_01_05_JEANPAULMC_FUNCIONES_H

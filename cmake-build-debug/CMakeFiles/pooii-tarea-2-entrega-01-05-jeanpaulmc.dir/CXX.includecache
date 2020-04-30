@@ -6,11 +6,27 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/Lifotemplate/lifoTemp.cpp
+lifoTemp.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/Lifotemplate/lifoTemp.h
+../tipos.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/Lifotemplate/lifoTemp.h
+
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.cpp
 ejercicios.h
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.h
 funciones.h
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/funciones.h
+lifo/Lifo.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/lifo/Lifo.h
+lifo/Lifo.cpp
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/lifo/Lifo.cpp
+Lifotemplate/lifoTemp.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/Lifotemplate/lifoTemp.h
+Lifotemplate/lifoTemp.cpp
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/Lifotemplate/lifoTemp.cpp
 
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.h
 tipos.h
@@ -19,6 +35,14 @@ C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/funciones.h
 tipos.h
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/lifo/Lifo.cpp
+Lifo.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/lifo/Lifo.h
+../tipos.h
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
+
+C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/lifo/Lifo.h
 
 C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/tipos.h
 iostream

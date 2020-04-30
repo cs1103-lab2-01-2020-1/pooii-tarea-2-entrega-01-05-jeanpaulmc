@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/Lifotemplate">
+			<Option target="pooii-tarea-2-entrega-01-05-jeanpaulmc"/>
+		</Unit>
 		<Unit filename="C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/ejercicios.cpp">
 			<Option target="pooii-tarea-2-entrega-01-05-jeanpaulmc"/>
 		</Unit>
@@ -90,6 +93,9 @@
 			<Option target="pooii-tarea-2-entrega-01-05-jeanpaulmc"/>
 		</Unit>
 		<Unit filename="C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/funciones.h">
+			<Option target="pooii-tarea-2-entrega-01-05-jeanpaulmc"/>
+		</Unit>
+		<Unit filename="C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/lifo">
 			<Option target="pooii-tarea-2-entrega-01-05-jeanpaulmc"/>
 		</Unit>
 		<Unit filename="C:/Users/Familiar/Desktop/git/pooii-tarea-2-entrega-01-05-jeanpaulmc/src/main.cpp">

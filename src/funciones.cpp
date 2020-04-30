@@ -11,3 +11,9 @@ void print_arr(int *arr, int n){
     }
     cout << endl;
 }
+void print_list(list<int> l){
+    for (auto x:l){
+        cout << x << " ";
+    }
+    cout << endl;
+}
